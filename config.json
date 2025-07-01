@@ -1,13 +1,11 @@
 {
     "values": [
-        "https://www.zhihu.com/rss",
-        "https://tech.meituan.com/feed/",
-        "http://www.ruanyifeng.com/blog/atom.xml",
+        "https://www.tmtpost.com/rss.xml",
         "https://36kr.com/feed",
-        "https://v2ex.com/feed/tab/tech.xml",
-        "http://www.sciencenet.cn/xml/blog.aspx?di=30",
         "https://36kr.com/feed-newsflash",
         "https://www.itjuzi.com/api/telegraph.xml",
+        "https://www.zhihu.com/rss",
+        "https://tech.meituan.com/feed/",
         "https://www.geekpark.net/rss"
     ],
     "refresh": 6,
